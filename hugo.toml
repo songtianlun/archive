@@ -9,6 +9,7 @@ opengraph = true # Enable OpenGraph if true
 schema = true # Enable Schema
 readmore = true # Show "Read more" button in list if true
 post_meta = ["author", "date"]
+dateformat = "2006-01-02"
 [Params.logo]
   title = "Linux.cn Archive"
 [Params.thumbnail]
